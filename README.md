@@ -1,3 +1,3 @@
 # Computer-Vision
 
-Assignment use Cifar-10-batches
+Assignment use Cifar-10-batches dataset
